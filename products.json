@@ -31,43 +31,43 @@
     
     "id": 8,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Հարմարավետ քուն՝ յուրաքանչյուր գիշեր։" },
     "image": "img/barcer/393f4403-7d87-4625-b440-12929b1fcfbd.jpg"
   },
   {
     "id": 9,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Փափկություն, որը կզգաք առաջին իսկ հպումից։" },
     "image": "img/barcer/c4bf9266-3c59-4528-9ae7-270e55cb4add.jpg"
   },
   {
     "id": 10,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Հայկական արտադրություն՝ վստահելի որակ։" },
     "image": "img/barcer/c464c594-9dfd-41b8-9d05-f237649bebf3.jpg"
   },
   {
     "id": 11,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ձեր առողջ քնի լավագույն ընտրությունը։" },
     "image": "img/barcer/d8fe90a0-7606-4307-b6c9-80abf6ba7e83.jpg"
   },
   {
     "id": 12,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка", "en": "Pillow", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Բարձր որակ՝ երկարատև օգտագործման համար։" },
     "image": "img/barcer/dede1cd0-2800-4a27-af63-29e29a035dee.jpg"
   },
   {
     "id": 13,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "title": { "ru": "Подушка", "en": "Pillow", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Շնչող և հարմարավետ նյութեր։" },
     "image": "img/barcer/ed386ce6-8285-48c3-9aad-587ab9487600.jpg"
   },
 
