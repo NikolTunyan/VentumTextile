@@ -2,42 +2,42 @@
   {
     "id": 1,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
     "description": { "ru": "Уютный сон каждую ночь.", "en": "Cozy sleep every night.", "am": "Հարմարավետ քուն՝ յուրաքանչյուր գիշեր։" },
     "image": "img/barcer/393f4403-7d87-4625-b440-12929b1fcfbd.jpg"
   },
   {
     "id": 2,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
     "description": { "ru": "Мягкость, которую вы почувствуете с первого прикосновения.", "en": "Softness you can feel from the very first touch.", "am": "Փափկություն, որը կզգաք առաջին իսկ հպումից։" },
     "image": "img/barcer/c4bf9266-3c59-4528-9ae7-270e55cb4add.jpg"
   },
   {
     "id": 3,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
     "description": { "ru": "Армянское производство — надёжное качество.", "en": "Armenian production — reliable quality.", "am": "Հայկական արտադրություն՝ վստահելի որակ։" },
     "image": "img/barcer/c464c594-9dfd-41b8-9d05-f237649bebf3.jpg"
   },
   {
     "id": 4,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
     "description": { "ru": "Лучший выбор для здорового сна.", "en": "The best choice for healthy sleep.", "am": "Ձեր առողջ քնի լավագույն ընտրությունը։" },
     "image": "img/barcer/d8fe90a0-7606-4307-b6c9-80abf6ba7e83.jpg"
   },
   {
     "id": 5,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
     "description": { "ru": "Высокое качество для длительного использования.", "en": "High quality for long-term use.", "am": "Բարձր որակ՝ երկարատև օգտագործման համար։" },
     "image": "img/barcer/dede1cd0-2800-4a27-af63-29e29a035dee.jpg"
   },
   {
     "id": 6,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
     "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
     "image": "img/barcer/ed386ce6-8285-48c3-9aad-587ab9487600.jpg"
   },
@@ -77,7 +77,7 @@
     "image": "img/srbichner/f3b4364d-4c36-4f30-8ac7-2cd9ff256ced.jpg"
   },
   {
-    "id": 14,
+    "id": 12,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -85,7 +85,7 @@
   },
   
   {
-    "id": 15,
+    "id": 13,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -93,7 +93,7 @@
   },
   
   {
-    "id": 16,
+    "id": 14,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -101,7 +101,7 @@
   },
   
   {
-    "id": 17,
+    "id": 15,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -109,7 +109,7 @@
   },
   
   {
-    "id": 18,
+    "id": 16,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -117,98 +117,98 @@
   },
   
   {
-    "id": 19,
+    "id": 17,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/b16888ac-6820-47ce-9e15-dfe71c2a0b27.jpg"
   },
   {
-    "id": 20,
+    "id": 18,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Ամեն գիշեր՝ նոր էներգիա։" },
     "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
   },
   {
-    "id": 21,
+    "id": 19,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Ամեն գիշեր՝ նոր էներգիա։" },
     "image": "img/cackocner/9939abc3-b6f5-475e-9577-76f853bb7047.jpg"
   },
   {
-    "id": 22,
+    "id": 20,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Ամեն գիշեր՝ նոր էներգիա։" },
     "image": "img/cackocner/a53fb8cd-f3b1-4d89-b28e-652127218e73.jpg"
   },
   {
-    "id": 23,
+    "id": 21,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Ամեն գիշեր՝ նոր էներգիա։" },
     "image": "img/cackocner/cf8b1f51-22e7-4ded-8173-009c6324615f.jpg"
   },
   {
-    "id": 24,
+    "id": 22,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "Պրեմիում դասի ծածկոցներ՝ բարձր հարմարավետությամբ" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Ամեն գիշեր՝ նոր էներգիա։" },
     "image": "img/cackocner/eb057dd7-1dfe-46d9-b15e-94a7671968fe.jpg"
   },
   {
-    "id": 25,
+    "id": 23,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/1daad1ca-0c47-4fc7-bdef-7e4daf6bf822.jpg"
   },
   {
-    "id": 26,
+    "id": 24,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/4ffe8a60-0cb3-42e0-94fb-f4e4637d4413.jpg"
   },
   {
-    "id": 27,
+    "id": 25,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/71dd972e-26f9-41ca-95fb-00066fb2ad0d.jpg"
   },
   {
-    "id": 28,
+    "id": 26,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/288b3eae-64ab-41ec-b486-595e6d359bc8.jpg"
   },
   {
-    "id": 29,
+    "id": 27,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/a3a5aa68-239a-4040-aec4-f58d7d4e7e14.jpg"
   },
   {
-    "id": 30,
+    "id": 28,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/dee56647-8adc-44d5-87b8-cb260e72aecf.jpg"
   },
   {
-    "id": 31,
+    "id": 29,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/e0027a2a-cbc5-4c1a-9386-9e6c2916fdd8.jpg"
   },
   {
-    "id": 32,
+    "id": 30,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
