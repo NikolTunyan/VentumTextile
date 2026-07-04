@@ -77,7 +77,7 @@
     "image": "img/srbichner/f3b4364d-4c36-4f30-8ac7-2cd9ff256ced.jpg"
   },
   {
-    "id": 14,
+    "id": 12,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -85,7 +85,7 @@
   },
   
   {
-    "id": 15,
+    "id": 13,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -93,7 +93,7 @@
   },
   
   {
-    "id": 16,
+    "id": 14,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -101,7 +101,7 @@
   },
   
   {
-    "id": 17,
+    "id": 15,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -109,7 +109,7 @@
   },
   
   {
-    "id": 18,
+    "id": 16,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
@@ -117,98 +117,98 @@
   },
   
   {
-    "id": 19,
+    "id": 17,
     "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
     "title": { "ru": "Комфорт начинается с нами.", "en": "Comfort starts with us.", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
     "description": { "ru": "Правильная постель — секрет здорового сна.", "en": "The right bedding is the secret to healthy sleep.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/b16888ac-6820-47ce-9e15-dfe71c2a0b27.jpg"
   },
   {
-    "id": 20,
+    "id": 18,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
   },
   {
-    "id": 21,
+    "id": 19,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/cackocner/9939abc3-b6f5-475e-9577-76f853bb7047.jpg"
   },
   {
-    "id": 22,
+    "id": 20,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/cackocner/a53fb8cd-f3b1-4d89-b28e-652127218e73.jpg"
   },
   {
-    "id": 23,
+    "id": 21,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/cackocner/cf8b1f51-22e7-4ded-8173-009c6324615f.jpg"
   },
   {
-    "id": 24,
+    "id": 22,
     "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/cackocner/eb057dd7-1dfe-46d9-b15e-94a7671968fe.jpg"
   },
   {
-    "id": 25,
+    "id": 23,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/1daad1ca-0c47-4fc7-bdef-7e4daf6bf822.jpg"
   },
   {
-    "id": 26,
+    "id": 24,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/4ffe8a60-0cb3-42e0-94fb-f4e4637d4413.jpg"
   },
   {
-    "id": 27,
+    "id": 25,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/71dd972e-26f9-41ca-95fb-00066fb2ad0d.jpg"
   },
   {
-    "id": 28,
+    "id": 26,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/288b3eae-64ab-41ec-b486-595e6d359bc8.jpg"
   },
   {
-    "id": 29,
+    "id": 27,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/a3a5aa68-239a-4040-aec4-f58d7d4e7e14.jpg"
   },
   {
-    "id": 30,
+    "id": 28,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/dee56647-8adc-44d5-87b8-cb260e72aecf.jpg"
   },
   {
-    "id": 31,
+    "id": 29,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
     "image": "img/mankakan hagust/e0027a2a-cbc5-4c1a-9386-9e6c2916fdd8.jpg"
   },
   {
-    "id": 32,
+    "id": 30,
     "category": { "ru": "Детская одежда", "en": "Children's Clothing", "am": "Մանկական հագուստ" },
     "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
     "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
