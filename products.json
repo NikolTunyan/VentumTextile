@@ -1,46 +1,80 @@
 [
   {
-    
-    "id": 8,
+    "id": 1,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Հարմարավետ քուն՝ յուրաքանչյուր գիշեր։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Уютный сон каждую ночь.", "en": "Cozy sleep every night.", "am": "Հարմարավետ քուն՝ յուրաքանչյուր գիշեր։" },
     "image": "img/barcer/393f4403-7d87-4625-b440-12929b1fcfbd.jpg"
   },
   {
-    "id": 9,
+    "id": 2,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Փափկություն, որը կզգաք առաջին իսկ հպումից։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Мягкость, которую вы почувствуете с первого прикосновения.", "en": "Softness you can feel from the very first touch.", "am": "Փափկություն, որը կզգաք առաջին իսկ հպումից։" },
     "image": "img/barcer/c4bf9266-3c59-4528-9ae7-270e55cb4add.jpg"
   },
   {
-    "id": 10,
+    "id": 3,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Հայկական արտադրություն՝ վստահելի որակ։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Армянское производство — надёжное качество.", "en": "Armenian production — reliable quality.", "am": "Հայկական արտադրություն՝ վստահելի որակ։" },
     "image": "img/barcer/c464c594-9dfd-41b8-9d05-f237649bebf3.jpg"
   },
   {
-    "id": 11,
+    "id": 4,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ձեր առողջ քնի լավագույն ընտրությունը։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Лучший выбор для здорового сна.", "en": "The best choice for healthy sleep.", "am": "Ձեր առողջ քնի լավագույն ընտրությունը։" },
     "image": "img/barcer/d8fe90a0-7606-4307-b6c9-80abf6ba7e83.jpg"
   },
   {
-    "id": 12,
+    "id": 5,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка", "en": "Pillow", "am": "Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Բարձր որակ՝ երկարատև օգտագործման համար։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Высокое качество для длительного использования.", "en": "High quality for long-term use.", "am": "Բարձր որակ՝ երկարատև օգտագործման համար։" },
     "image": "img/barcer/dede1cd0-2800-4a27-af63-29e29a035dee.jpg"
   },
   {
-    "id": 13,
+    "id": 6,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка", "en": "Pillow", "am": "Հայկական արտադրության բարձեր" },
-    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "title": { "ru": "Подушки армянского производства", "en": "Armenian-made pillows", "am": "«Հայկական արտադրության բարձեր" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
     "image": "img/barcer/ed386ce6-8285-48c3-9aad-587ab9487600.jpg"
+  },
+  {
+    "id": 7,
+    "category": { "ru": "Полотенце", "en": "Towels", "am": "Սրբիչ" },
+    "title": { "ru": "Полотенце армянского производства", "en": "Armenian-made towels", "am": "«Հայկական արտադրության սրբիչ" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "image": "img/srbichner/109aa4d5-391e-45d8-98ad-948d39710063.jpg"
+  },
+  {
+    "id": 8,
+    "category": { "ru": "Полотенце", "en": "Towels", "am": "Սրբիչ" },
+    "title": { "ru": "Полотенце армянского производства", "en": "Armenian-made towels", "am": "«Հայկական արտադրության սրբիչ" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "image": "img/srbichner/4323e1de-8eca-475d-b344-cb56389a01ea.jpg"
+  },
+  {
+    "id": 9,
+    "category": { "ru": "Полотенце", "en": "Towels", "am": "Սրբիչ" },
+    "title": { "ru": "Полотенце армянского производства", "en": "Armenian-made towels", "am": "«Հայկական արտադրության սրբիչ" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "image": "img/srbichner/b1ebc4fc-b06a-4b88-9741-e8bf23a81d94.jpg"
+  },
+  {
+    "id": 10,
+    "category": { "ru": "Полотенце", "en": "Towels", "am": "Սրբիչ" },
+    "title": { "ru": "Полотенце армянского производства", "en": "Armenian-made towels", "am": "«Հայկական արտադրության սրբիչ" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "image": "img/srbichner/c31f56b4-af5b-4f67-872c-4757fee5e582.jpg"
+  },
+  {
+    "id": 11,
+    "category": { "ru": "Полотенце", "en": "Towels", "am": "Սրբիչ" },
+    "title": { "ru": "Полотенце армянского производства", "en": "Armenian-made towels", "am": "«Հայկական արտադրության սրբիչ" },
+    "description": { "ru": "Дышащие и комфортные материалы.", "en": "Breathable and comfortable materials.", "am": "Շնչող և հարմարավետ նյութեր։" },
+    "image": "img/srbichner/f3b4364d-4c36-4f30-8ac7-2cd9ff256ced.jpg"
   },
   {
     "id": 14,
