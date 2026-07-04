@@ -59,14 +59,14 @@
   {
     "id": 12,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка", "en": "Pillow", "am": "«Հայկական արտադրության բարձեր" },
+    "title": { "ru": "Подушка", "en": "Pillow", "am": "Հայկական արտադրության բարձեր" },
     "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Բարձր որակ՝ երկարատև օգտագործման համար։" },
     "image": "img/barcer/dede1cd0-2800-4a27-af63-29e29a035dee.jpg"
   },
   {
     "id": 13,
     "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
-    "title": { "ru": "Подушка", "en": "Pillow", "am": "«Հայկական արտադրության բարձեր" },
+    "title": { "ru": "Подушка", "en": "Pillow", "am": "Հայկական արտադրության բարձեր" },
     "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Շնչող և հարմարավետ նյութեր։" },
     "image": "img/barcer/ed386ce6-8285-48c3-9aad-587ab9487600.jpg"
   },
@@ -75,49 +75,49 @@
   
   {
     "id": 14,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/7dae6492-98cd-40d4-9533-8a7246adb1f3.jpg"
   },
   
   {
     "id": 15,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/18e2a658-5b0f-4bf3-a643-574fe046cb3d.jpg"
   },
   
   {
     "id": 16,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/00399bed-5568-495a-b00f-bebf3e90c679.jpg"
   },
   
   {
     "id": 17,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/908807bc-56da-493e-b55c-ffeeca54c604.jpg"
   },
   
   {
     "id": 18,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/a593a435-fbb1-4cd8-8e7a-cdcb2e995375.jpg"
   },
   
   {
     "id": 19,
-    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողvhյին սպիտակեղեն" },
-    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
-    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային պարագաներ" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "Հարմարավետությունը սկսվում է մեզ հետ։" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Ճիշտ անկողինը՝ առողջ քնի գաղտնիք։" },
     "image": "img/ankoxiner/b16888ac-6820-47ce-9e15-dfe71c2a0b27.jpg"
   },
   {
