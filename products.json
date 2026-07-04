@@ -119,5 +119,40 @@
     "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
     "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
     "image": "img/ankoxiner/b16888ac-6820-47ce-9e15-dfe71c2a0b27.jpg"
+  },
+  {
+    "id": 20,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
+  },
+  {
+    "id": 21,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
+  },
+  {
+    "id": 22,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
+  },
+  {
+    "id": 23,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
+  },
+  {
+    "id": 24,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image": "img/cackocner/11aea9db-56c6-4dd3-85e3-6c9ae6702199.jpg"
   }
 ]

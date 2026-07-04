@@ -3,6 +3,19 @@ document.addEventListener("DOMContentLoaded", () => {
   const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* ------------------------------------------------------------------ */
+  /* Intro curtain                                                        */
+  /* ------------------------------------------------------------------ */
+  if (prefersReduced) {
+    document.body.classList.add("intro-done");
+  } else {
+    window.addEventListener("load", () => {
+      setTimeout(() => document.body.classList.add("intro-done"), 450);
+    });
+    // safety net in case load already fired
+    setTimeout(() => document.body.classList.add("intro-done"), 2200);
+  }
+
+  /* ------------------------------------------------------------------ */
   /* i18n                                                                 */
   /* ------------------------------------------------------------------ */
   let lang = localStorage.getItem("lang") || "ru";
@@ -17,17 +30,10 @@ document.addEventListener("DOMContentLoaded", () => {
       "hero.cta": "Смотреть каталог",
       "hero.cta2": "Связаться",
       "hero.scroll": "Прокрутите",
-      "manifesto.eyebrow": "Философия",
-      "manifesto.title": "Ткань, которая помнит прикосновение — <em>вот что мы делаем</em>.",
-      "material.1.title": "Лён и хлопок",
-      "material.1.text": "Натуральные волокна с местных и проверенных европейских производств.",
-      "material.2.title": "Ручная отделка",
-      "material.2.text": "Кромки, стежка и упаковка каждого изделия — вручную, в Масисе.",
-      "material.3.title": "Медленное производство",
-      "material.3.text": "Небольшие партии — чтобы контролировать качество каждой нити.",
       "catalog.eyebrow": "Каталог",
       "catalog.title": "Изделия",
       "catalog.text": "Каждая вещь — часть небольшой коллекции, собранной вокруг одного оттенка и одной фактуры.",
+      "catalog.view": "Смотреть",
       "filter.all": "Все",
       "map.eyebrow": "Мастерская",
       "map.title": "Мы на карте",
@@ -53,17 +59,10 @@ document.addEventListener("DOMContentLoaded", () => {
       "hero.cta": "View the catalog",
       "hero.cta2": "Get in touch",
       "hero.scroll": "Scroll",
-      "manifesto.eyebrow": "Philosophy",
-      "manifesto.title": "Fabric that remembers the touch — <em>that's what we make</em>.",
-      "material.1.title": "Linen and cotton",
-      "material.1.text": "Natural fibres from local and trusted European mills.",
-      "material.2.title": "Finished by hand",
-      "material.2.text": "Edges, stitching and packaging — done by hand, in Masis.",
-      "material.3.title": "Slow production",
-      "material.3.text": "Small batches, so every thread stays under control.",
       "catalog.eyebrow": "Catalog",
       "catalog.title": "Pieces",
       "catalog.text": "Every piece belongs to a small collection built around one tone and one texture.",
+      "catalog.view": "View",
       "filter.all": "All",
       "map.eyebrow": "Workshop",
       "map.title": "Find us",
@@ -89,17 +88,10 @@ document.addEventListener("DOMContentLoaded", () => {
       "hero.cta": "Դիտել կատալոգը",
       "hero.cta2": "Կապ հաստատել",
       "hero.scroll": "Ոլորեք",
-      "manifesto.eyebrow": "Փիլիսոփայություն",
-      "manifesto.title": "Գործվածք, որը հիշում է հպումը — <em>հենց դա ենք մենք ստեղծում</em>։",
-      "material.1.title": "Կտավատ և բամբակ",
-      "material.1.text": "Բնական մանրաթելեր տեղական և վստահելի եվրոպական արտադրություններից։",
-      "material.2.title": "Ձեռքի աշխատանք",
-      "material.2.text": "Եզրագծում, կարում և փաթեթավորում — ամեն ինչ ձեռքով, Մասիսում։",
-      "material.3.title": "Դանդաղ արտադրություն",
-      "material.3.text": "Փոքր խմբաքանակներ՝ յուրաքանչյուր թելի որակը վերահսկելու համար։",
       "catalog.eyebrow": "Կատալոգ",
       "catalog.title": "Իրեր",
       "catalog.text": "Յուրաքանչյուր իր փոքր հավաքածուի մաս է՝ կառուցված մեկ երանգի և մեկ հյուսվածքի շուրջ։",
+      "catalog.view": "Դիտել",
       "filter.all": "Բոլորը",
       "map.eyebrow": "Արհեստանոց",
       "map.title": "Մենք քարտեզի վրա",
@@ -141,6 +133,14 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ------------------------------------------------------------------ */
+  /* Kinetic type — wraps text into per-word spans for hover reaction     */
+  /* ------------------------------------------------------------------ */
+  function wrapWords(el) {
+    const words = el.textContent.split(" ");
+    el.innerHTML = words.map(w => `<span class="k-word">${w}</span>`).join(" ");
+  }
+
+  /* ------------------------------------------------------------------ */
   /* Apply language                                                       */
   /* ------------------------------------------------------------------ */
   function applyLang() {
@@ -152,6 +152,8 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll("[data-i18n-html]").forEach(el => {
       el.innerHTML = t(el.dataset.i18nHtml);
     });
+
+    document.querySelectorAll(".kinetic-type").forEach(wrapWords);
 
     setHeroHeading(t("hero.heading"));
 
@@ -241,6 +243,22 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       `;
       frag.appendChild(card);
+
+      if (!prefersReduced && window.matchMedia("(hover: hover)").matches) {
+        const media = card.querySelector(".card-media");
+        const img = media.querySelector("img");
+        media.addEventListener("mousemove", e => {
+          const r = media.getBoundingClientRect();
+          const px = (e.clientX - r.left) / r.width - 0.5;
+          const py = (e.clientY - r.top) / r.height - 0.5;
+          media.style.transform = `rotateX(${(-py * 8).toFixed(2)}deg) rotateY(${(px * 10).toFixed(2)}deg)`;
+          img.style.transform = `scale(1.09) translate(${(-px * 10).toFixed(1)}px, ${(-py * 10).toFixed(1)}px)`;
+        });
+        media.addEventListener("mouseleave", () => {
+          media.style.transform = "";
+          img.style.transform = "";
+        });
+      }
     });
 
     grid.appendChild(frag);
@@ -281,6 +299,100 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   /* ------------------------------------------------------------------ */
+  /* Cursor hint — follows pointer over catalog cards                     */
+  /* ------------------------------------------------------------------ */
+  const cursorHint = document.querySelector(".cursor-hint");
+  const canHover = window.matchMedia("(hover: hover)").matches;
+
+  if (canHover && cursorHint) {
+    let hintX = 0, hintY = 0, curX = 0, curY = 0;
+    let hintRAF = null;
+
+    function animateHint() {
+      curX += (hintX - curX) * 0.18;
+      curY += (hintY - curY) * 0.18;
+      cursorHint.style.transform = `translate(${curX}px, ${curY}px) translate(-50%, -50%) scale(${cursorHint.classList.contains("active") ? 1 : .8})`;
+      hintRAF = requestAnimationFrame(animateHint);
+    }
+    animateHint();
+
+    document.addEventListener("mousemove", e => {
+      hintX = e.clientX;
+      hintY = e.clientY;
+    });
+
+    grid.addEventListener("mouseover", e => {
+      if (e.target.closest(".card")) cursorHint.classList.add("active");
+    });
+    grid.addEventListener("mouseout", e => {
+      if (e.target.closest(".card") && !e.relatedTarget?.closest(".card")) {
+        cursorHint.classList.remove("active");
+      }
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Chapter nav — tracks which section is active                        */
+  /* ------------------------------------------------------------------ */
+  const chapterNav = document.querySelector(".chapter-nav");
+  if (chapterNav) {
+    const chapterMap = [
+      { target: document.querySelector(".hero"), dark: true },
+      { target: document.getElementById("catalog"), dark: false },
+      { target: document.querySelector(".map-section"), dark: false },
+      { target: document.getElementById("contacts"), dark: true }
+    ];
+    const chapterLinks = Array.from(chapterNav.querySelectorAll("a"));
+
+    const updateChapterNav = () => {
+      const viewportCenter = window.innerHeight * 0.45;
+
+      let activeIndex = 0;
+      chapterMap.forEach((section, index) => {
+        if (!section.target) return;
+
+        const rect = section.target.getBoundingClientRect();
+        const sectionMiddle = rect.top + rect.height / 2;
+
+        if (sectionMiddle <= viewportCenter) {
+          activeIndex = index;
+        }
+      });
+
+      chapterLinks.forEach(l => l.classList.remove("on"));
+
+      const linkIndex = activeIndex >= 2 ? activeIndex - 1 : activeIndex;
+      chapterLinks[linkIndex]?.classList.add("on");
+
+      chapterNav.classList.toggle("on-dark", chapterMap[activeIndex].dark);
+    };
+
+    updateChapterNav();
+    window.addEventListener("scroll", updateChapterNav, { passive: true });
+    window.addEventListener("resize", updateChapterNav);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Magnetic buttons                                                     */
+  /* ------------------------------------------------------------------ */
+  if (!prefersReduced && window.matchMedia("(hover: hover)").matches) {
+    document.querySelectorAll(".magnetic").forEach(btn => {
+      btn.addEventListener("mousemove", e => {
+        const r = btn.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width - 0.5;
+        const y = (e.clientY - r.top) / r.height - 0.5;
+        btn.style.transform = `translate(${(x * 14).toFixed(1)}px, ${(y * 14).toFixed(1)}px)`;
+      });
+      btn.addEventListener("mouseleave", () => { btn.style.transform = ""; });
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Hero ghost type — subtle scroll parallax                             */
+  /* ------------------------------------------------------------------ */
+  const heroGhost = document.querySelector(".hero-ghost");
+
+  /* ------------------------------------------------------------------ */
   /* Scroll reveals                                                       */
   /* ------------------------------------------------------------------ */
   let io;
@@ -294,7 +406,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }, { threshold: 0.15, rootMargin: "0px 0px -60px 0px" });
 
-    observeAll(document.querySelectorAll(".reveal, .reveal-stagger, .material"));
+    observeAll(document.querySelectorAll(".reveal, .reveal-stagger"));
   }
   function observeAll(nodes) {
     nodes.forEach(n => io && io.observe(n));
@@ -327,6 +439,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function updateStitchReveal() {
+    if (heroGhost && !prefersReduced) {
+      heroGhost.style.transform = `translate(-50%, calc(-50% + ${window.scrollY * 0.15}px))`;
+    }
     if (prefersReduced) return;
     const doc = document.documentElement;
     const scrolled = doc.scrollTop || document.body.scrollTop;
