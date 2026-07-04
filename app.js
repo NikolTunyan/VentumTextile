@@ -25,20 +25,20 @@ document.addEventListener("DOMContentLoaded", () => {
   const dict = {
     ru: {
       "hero.heading": "Текстиль премиального уровня в Масисе",
-      "hero.eyebrow": "Мастерская в Масисе",
+      "hero.eyebrow": "Мир текстиля в Масисе",
       "hero.text": "Минимализм, тактильность и качество в каждой детали вашего дома.",
       "hero.cta": "Смотреть каталог",
       "hero.cta2": "Связаться",
       "hero.scroll": "Прокрутите",
       "catalog.eyebrow": "Каталог",
       "catalog.title": "Изделия",
-      "catalog.text": "Каждая вещь — часть небольшой коллекции, собранной вокруг одного оттенка и одной фактуры.",
+      "catalog.text": "Компания Ventum Textile представляет высококачественную текстильную продукцию армянского производства: постельное белье, подушки, одеяла, детская одежда. Выбирайте комфорт, качество и надежное производство.",
       "catalog.view": "Смотреть",
       "filter.all": "Все",
-      "map.eyebrow": "Мастерская",
+      "map.eyebrow": "Вентум Текстиль",
       "map.title": "Мы на карте",
-      "map.addr": "г. Масис, Армения",
-      "map.hours": "Пн–Сб, 10:00–19:00",
+      "map.addr": "г. Масис, ул. Анрапетутян 5/4",
+      "map.hours": "Пн–Вс, 10:00–22:00",
       "contacts.eyebrow": "Контакты",
       "contacts.title": "Напишите нам — ответим в течение дня.",
       "contacts.text": "Поможем подобрать ткань, оттенок и размер под вашу спальню, гостиную или проект.",
@@ -54,20 +54,20 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     en: {
       "hero.heading": "Premium textile, made in Masis",
-      "hero.eyebrow": "A workshop in Masis",
+      "hero.eyebrow": "Textile world in Masis",
       "hero.text": "Minimalism, texture and quality in every detail of your home.",
       "hero.cta": "View the catalog",
       "hero.cta2": "Get in touch",
       "hero.scroll": "Scroll",
       "catalog.eyebrow": "Catalog",
       "catalog.title": "Pieces",
-      "catalog.text": "Every piece belongs to a small collection built around one tone and one texture.",
+      "catalog.text": "Ventum Textile presents high-quality textile products of Armenian production: bedding, pillows, blankets, children's clothing. Choose comfort, quality and reliable production.",
       "catalog.view": "View",
       "filter.all": "All",
-      "map.eyebrow": "Workshop",
+      "map.eyebrow": "Ventum Textile",
       "map.title": "Find us",
-      "map.addr": "Masis, Armenia",
-      "map.hours": "Mon–Sat, 10:00–19:00",
+      "map.addr": "Masis, Hanrapetutyan 5/4",
+      "map.hours": "Mon–Sat, 10:00–22:00",
       "contacts.eyebrow": "Contact",
       "contacts.title": "Write to us — we reply within a day.",
       "contacts.text": "We'll help you choose the fabric, tone and size for your bedroom, living room or project.",
@@ -83,20 +83,20 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     am: {
       "hero.heading": "Պրեմիում որակի տեքստիլ Մասիսում",
-      "hero.eyebrow": "Արհեստանոց Մասիսում",
+      "hero.eyebrow": "Տեքստիլների աշխարհ Մասիսում",
       "hero.text": "Մինիմալիզմ, հպման որակ և փայլուն ման­րամասներ ձեր տան համար։",
       "hero.cta": "Դիտել կատալոգը",
       "hero.cta2": "Կապ հաստատել",
-      "hero.scroll": "Ոլորեք",
+      "hero.scroll": "Թերթիր ներքև",
       "catalog.eyebrow": "Կատալոգ",
       "catalog.title": "Իրեր",
-      "catalog.text": "Յուրաքանչյուր իր փոքր հավաքածուի մաս է՝ կառուցված մեկ երանգի և մեկ հյուսվածքի շուրջ։",
+      "catalog.text": "Ventum Textile-ը ներկայացնում է հայկական արտադրության բարձրորակ տեքստիլ ապրանքներ՝ անկողնային պարագաներ, բարձեր, ծածկոցներ, մանկական հագուստ ։ Ընտրեք հարմարավետություն, որակ և վստահելի արտադրություն։",
       "catalog.view": "Դիտել",
       "filter.all": "Բոլորը",
-      "map.eyebrow": "Արհեստանոց",
-      "map.title": "Մենք քարտեզի վրա",
-      "map.addr": "ք. Մասիս, Հայաստան",
-      "map.hours": "Երկ–Շբթ, 10:00–19:00",
+      "map.eyebrow": "Վենտւմ տեքստիլ",
+      "map.title": "Մեր հասցեն քարտեզի վրա",
+      "map.addr": "ք. Մասիս, Հանրապետություն փ․, 5/4",
+      "map.hours": "Երկ–Կիր, 10:00–22:00",
       "contacts.eyebrow": "Կոնտակտներ",
       "contacts.title": "Գրեք մեզ — կպատասխանենք մեկ օրվա ընթացքում։",
       "contacts.text": "Կօգնենք ընտրել գործվածքը, երանգը և չափսը ձեր ննջասենյակի, հյուրասենյակի կամ նախագծի համար։",
@@ -183,8 +183,12 @@ document.addEventListener("DOMContentLoaded", () => {
   async function load() {
     const res = await fetch("./products.json");
     products = await res.json();
-    applyLang();
+    await applyLang();    
     initObservers();
+    // Добавляем первоначальную отрисовку:
+    activeFilter = "all"; // Убедитесь, что начальный фильтр задан
+    buildFilters();
+    render();
   }
 
   function categories() {
@@ -218,6 +222,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function render() {
+    console.log("Массив продуктов при рендере:", products);   
+    if (!products || !products.length) return;
     grid.innerHTML = "";
     const frag = document.createDocumentFragment();
 
@@ -226,11 +232,15 @@ document.addEventListener("DOMContentLoaded", () => {
       return (p.category[lang] || p.category.ru) === activeFilter;
     });
 
+    console.log("2. Текущий activeFilter:", activeFilter);
+  console.log("3. Сколько продуктов прошло фильтр:", list.length);
+
+  
+
     list.forEach(p => {
       const card = document.createElement("div");
       card.className = "card reveal";
       card.dataset.id = p.id;
-
       card.innerHTML = `
         <div class="card-media">
           <img src="${p.image}" alt="${p.title[lang]}" loading="lazy" />
@@ -277,8 +287,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function openModal(p) {
     modalEyebrow.textContent = p.category[lang] || p.category.ru;
     modalTitle.textContent = p.title[lang];
-    wa.href = `https://wa.me/374000000000?text=${encodeURIComponent(t("modal.interest") + ": " + p.title[lang])}`;
-    call.href = "tel:+374000000000";
+    wa.href = `https://wa.me/37477461061?text=${encodeURIComponent(t("modal.interest") + ": " + p.title[lang])}`;
+    call.href = "tel:+37477461061";
 
     modal.classList.add("open");
   }
