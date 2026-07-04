@@ -1,0 +1,123 @@
+[
+  {
+    "id": 2,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Масис»", "en": "Masis Throw", "am": "«Մասիս» ծածկոց" },
+    "description": { "ru": "Плотное плетение шерсти и хлопка для прохладных вечеров.", "en": "Dense wool-cotton weave for cool evenings.", "am": "Խիտ բրդե-բամբակե հյուսվածք հով երեկոների համար" },
+    "image_seed": "vento-throw-01"
+  },
+  {
+    "id": 4,
+    "category": { "ru": "Скатерти", "en": "Table Linen", "am": "Սփռոցներ" },
+    "title": { "ru": "Скатерть «Утро»", "en": "Morning Tablecloth", "am": "«Առավոտ» սփռոց" },
+    "description": { "ru": "Лён рогожного плетения, ручная кромка.", "en": "Basket-weave linen with a hand-finished edge.", "am": "Զամբյուղագործ հյուսվածքով կտավատ, ձեռքի եզրագծում" },
+    "image_seed": "vento-table-01"
+  },
+  {
+    "id": 5,
+    "category": { "ru": "Полотенца", "en": "Towels", "am": "Սրբիչներ" },
+    "title": { "ru": "Полотенце «Роса»", "en": "Dew Towel", "am": "«Ցող» սրբիչ" },
+    "description": { "ru": "Вафельная текстура, быстро сохнет, держит форму.", "en": "Waffle texture — quick-drying, holds its shape.", "am": "Վաֆլի հյուսվածք, արագ չորացող, ձևը պահող" },
+    "image_seed": "vento-towel-01"
+  },
+  {
+    "id": 7,
+    "category": { "ru": "Пледы", "en": "Throws", "am": "Ծածկոցներ" },
+    "title": { "ru": "Плед «Ковчег»", "en": "Ark Throw", "am": "«Տապան» ծածկոց" },
+    "description": { "ru": "Крупная вязка, шерсть мериноса, окантовка вручную.", "en": "Chunky knit merino wool, hand-bound edge.", "am": "Խոշոր գործվածք, մերինոս բուրդ, ձեռքով եզրագծված" },
+    "image_seed": "vento-throw-02"
+  },
+  {
+    
+    "id": 8,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/393f4403-7d87-4625-b440-12929b1fcfbd.jpg"
+  },
+  {
+    "id": 9,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/c4bf9266-3c59-4528-9ae7-270e55cb4add.jpg"
+  },
+  {
+    "id": 10,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/c464c594-9dfd-41b8-9d05-f237649bebf3.jpg"
+  },
+  {
+    "id": 11,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/d8fe90a0-7606-4307-b6c9-80abf6ba7e83.jpg"
+  },
+  {
+    "id": 12,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/dede1cd0-2800-4a27-af63-29e29a035dee.jpg"
+  },
+  {
+    "id": 13,
+    "category": { "ru": "Подушки", "en": "Pillows", "am": "Բարձեր" },
+    "title": { "ru": "Подушка «Мох»", "en": "Moss Pillow", "am": "«Մամուռ» բարձ" },
+    "description": { "ru": "Рельефное плетение, оттенок глубокой зелени.", "en": "Textured weave in a deep moss green.", "am": "Ռելիեֆային հյուսվածք, խորը կանաչ երանգ" },
+    "image": "img/barcer/ed386ce6-8285-48c3-9aad-587ab9487600.jpg"
+  },
+
+
+  
+  {
+    "id": 14,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/7dae6492-98cd-40d4-9533-8a7246adb1f3.jpg"
+  },
+  
+  {
+    "id": 15,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/18e2a658-5b0f-4bf3-a643-574fe046cb3d.jpg"
+  },
+  
+  {
+    "id": 16,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/00399bed-5568-495a-b00f-bebf3e90c679.jpg"
+  },
+  
+  {
+    "id": 17,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/908807bc-56da-493e-b55c-ffeeca54c604.jpg"
+  },
+  
+  {
+    "id": 18,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/a593a435-fbb1-4cd8-8e7a-cdcb2e995375.jpg"
+  },
+  
+  {
+    "id": 19,
+    "category": { "ru": "Постельное бельё", "en": "Bedding", "am": "Անկողնային սպիտակեղեն" },
+    "title": { "ru": "Комплект «Глина»", "en": "Clay Bedding Set", "am": "«Կավ» հավաքածու" },
+    "description": { "ru": "Стираный лён теплого глиняного оттенка.", "en": "Stone-washed linen in a warm clay tone.", "am": "Լվացված կտավատ, տաք կավագույն երանգով" },
+    "image": "img/ankoxiner/b16888ac-6820-47ce-9e15-dfe71c2a0b27.jpg"
+  }
+]
